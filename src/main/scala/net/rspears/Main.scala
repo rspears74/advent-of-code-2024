@@ -1,9 +1,9 @@
 package net.rspears
 
-import net.rspears.solutions.Day1
+import net.rspears.solutions._
 
 object Main {
   def main(args: Array[String]): Unit = {
-    new Day1().runB
+    new Day2().runB
   }
 }
