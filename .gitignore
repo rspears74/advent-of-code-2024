@@ -3,4 +3,4 @@ target/
 .idea/
 .vscode/
 .metals/
-.DS_Store
+*/.DS_Store
