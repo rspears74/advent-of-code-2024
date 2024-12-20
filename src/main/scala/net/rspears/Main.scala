@@ -4,6 +4,6 @@ import net.rspears.solutions._
 
 object Main {
   def main(args: Array[String]): Unit = {
-    new Day2().runB
+    new Day3().runB
   }
 }
